@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Dominick Lima Dominici
-- 👀 I’m interested in improve my skills in programming
-- 🌱 I’m currently learning python 3
-- 💞️ I’m looking to collaborate on small projects 
+- 👀 Interested in improve my skills in programming
+- 🌱 Currently learning Python, SQL, Java and Game Maker Language
+- 💞️ Looking to collaborate on small projects 
 - 📫 How to reach me: 
 Instagram: @dominickdominici
-Email: dominickwdominici@gmail.com
+Email: 
+dominicklimadominici@gmail.com ( Personal )
+drive.dominici@gmail.com ( Professional )
+
 
