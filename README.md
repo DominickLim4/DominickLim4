@@ -1,7 +1,7 @@
-- Hi, I’m Dominick Lima Dominici
+- Hi, I’m Dominick Lima Dominici. 20 Years old
 - Interested in improve my skills in programming
-- Currently learning Python, SQL, Java and Game Maker Language
-- Looking to collaborate on Frontend projects 
+- I work with Python, C#, Unity, HTML, CSS, JavaScript.
+
 - How to reach me: 
 Instagram: @dominickld
 Email: 
