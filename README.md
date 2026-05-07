@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=8b949e&center=true&vCenter=true&width=720&lines=Construindo+APIs+robustas+com+arquitetura+limpa;Microsservi%C3%A7os+%E2%80%A2+DDD+%E2%80%A2+Clean+Code+%E2%80%A2+SOLID;CI%2FCD+com+Jenkins+%E2%80%A2+Docker+%E2%80%A2+PostgreSQL;Transformando+caf%C3%A9+%E2%98%95+em+c%C3%B3digo+desde+sempre" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=8b949e&center=true&vCenter=true&width=720&lines=Building+robust+APIs+with+clean+architecture;Microservices+%E2%80%A2+DDD+%E2%80%A2+Clean+Code+%E2%80%A2+SOLID;CI%2FCD+with+Jenkins+%E2%80%A2+Docker+%E2%80%A2+PostgreSQL;Turning+coffee+%E2%98%95+into+code+since+forever" alt="typing"/>
 
 <br/><br/>
 
@@ -12,21 +12,21 @@
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/DominickLim4?style=flat-square&color=656d76&label=FOLLOWERS)
 &nbsp;
-![Status](https://img.shields.io/badge/STATUS-DISPONÍVEL-3fb950?style=flat-square&labelColor=161b22)
+![Status](https://img.shields.io/badge/STATUS-AVAILABLE-3fb950?style=flat-square&labelColor=161b22)
 
 </div>
 
 <br/>
 
-## 📄 &nbsp; sobre.md
+## 📄 &nbsp; about.md
 
 ```yaml
-nome:        Dominick Lima
-funcao:      Fullstack Developer
-localizacao: São Luís, MA — Brasil 🇧🇷
-foco:        Arquitetura de Microsserviços & APIs escaláveis
-filosofia:   "Código limpo não se escreve, se reescreve."
-café:        ████████████████████░░ 95%
+name:        Dominick Lima
+role:        Fullstack Developer
+location:    São Luís, MA — Brazil 🇧🇷
+focus:       Microservices Architecture & Scalable APIs
+philosophy:  "Clean code isn't written, it's rewritten."
+coffee:      ████████████████████░░ 95%
 ```
 
 <br/>
@@ -47,19 +47,19 @@ café:        ████████████████████░░
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=DominickLim4&show_icons=true&hide_border=true&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=DominickLim4&hide_border=true&background=0d1117&stroke=21262d&ring=c9d1d9&fire=8b949e&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=656d76"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=DominickLim4&show_icons=true&hide_border=true&theme=transparent&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+<img height="175" src="https://streak-stats.demolab.com/?user=DominickLim4&hide_border=true&background=00000000&stroke=21262d&ring=c9d1d9&fire=8b949e&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=656d76"/>
 
 <br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominickLim4&layout=compact&hide_border=true&title_color=c9d1d9&text_color=8b949e&bg_color=0d1117&langs_count=10"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominickLim4&layout=compact&hide_border=true&theme=transparent&title_color=c9d1d9&text_color=8b949e&langs_count=10&cache_seconds=86400"/>
 <img height="175" src="https://github-profile-trophy.vercel.app/?username=DominickLim4&theme=onedark&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8"/>
 
 </div>
 
 <br/>
 
-## 🐍 &nbsp; contribuições
+## 🐍 &nbsp; contributions
 
 <div align="center">
 
@@ -69,7 +69,7 @@ café:        ████████████████████░░
 
 <br/>
 
-## 📬 &nbsp; contato
+## 📬 &nbsp; contact
 
 <div align="center">
 
