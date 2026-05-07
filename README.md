@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=8b949e&center=true&vCenter=true&width=720&lines=Building+robust+APIs+with+clean+architecture;Microservices+%E2%80%A2+DDD+%E2%80%A2+Clean+Code+%E2%80%A2+SOLID;CI%2FCD+with+Jenkins+%E2%80%A2+Docker+%E2%80%A2+PostgreSQL;Turning+coffee+%E2%98%95+into+code+since+forever" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=8b949e&center=true&vCenter=true&width=720&lines=Django+%E2%80%A2+React+%E2%80%A2+PostgreSQL+%E2%80%A2+Microservices;Scalable+APIs+with+clean+architecture+%26+DDD;Docker+%E2%80%A2+Jenkins+%E2%80%A2+CI%2FCD;Fullstack+Developer" alt="typing"/>
 
 <br/><br/>
 
