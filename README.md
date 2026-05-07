@@ -18,20 +18,19 @@
 
 <br/>
 
-## 📄 &nbsp; about.md
+## 📄 &nbsp; About
 
 ```yaml
 name:        Dominick Lima
 role:        Fullstack Developer
 location:    São Luís, MA — Brazil 🇧🇷
 focus:       Microservices Architecture & Scalable APIs
-philosophy:  "Clean code isn't written, it's rewritten."
-coffee:      ████████████████████░░ 95%
+loading:      ████████████████████░░ 95%
 ```
 
 <br/>
 
-## ⚡ &nbsp; stack
+## ⚡ &nbsp; Stack
 
 <div align="center">
 
@@ -43,23 +42,21 @@ coffee:      ████████████████████░░ 
 
 <br/>
 
-## 📊 &nbsp; stats
+## 📊 &nbsp; Stats
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=DominickLim4&show_icons=true&hide_border=true&theme=transparent&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&include_all_commits=true&count_private=true&cache_seconds=86400"/>
 <img height="175" src="https://streak-stats.demolab.com/?user=DominickLim4&hide_border=true&background=00000000&stroke=21262d&ring=c9d1d9&fire=8b949e&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=656d76"/>
 
 <br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominickLim4&layout=compact&hide_border=true&theme=transparent&title_color=c9d1d9&text_color=8b949e&langs_count=10&cache_seconds=86400"/>
-<img height="175" src="https://github-profile-trophy.vercel.app/?username=DominickLim4&theme=onedark&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DominickLim4&theme=onedark&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8"/>
 
 </div>
 
 <br/>
 
-## 🐍 &nbsp; contributions
+## 🐍 &nbsp; Contributions
 
 <div align="center">
 
@@ -69,7 +66,7 @@ coffee:      ████████████████████░░ 
 
 <br/>
 
-## 📬 &nbsp; contact
+## 📬 &nbsp; Contact
 
 <div align="center">
 
